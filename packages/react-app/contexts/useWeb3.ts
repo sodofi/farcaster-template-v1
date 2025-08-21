@@ -1,5 +1,5 @@
 import { formatEther, parseEther } from "viem";
-import { celoAlfajores } from "viem/chains";
+import { celoAlfajores, celo } from "viem/chains";
 import {
   useAccount,
   useBalance,
